@@ -6,6 +6,16 @@ Yazılım öğrenmeye başlamak için kendi kullandığım ücertli ve ücretsiz
 
 ![footer](https://github.com/StarLordBerke4/StarLordBerke4/blob/main/footer.jpg)
 
+## Türkçe Kaynaklar Listesi:
+
+Yazılım geliştirme ile ilgili derlemiş olduğum türkçe kaynaklar listesi.
+
+-  <b>Web Sitem:</b> [https://www.sibermega.com.tr/](https://www.sibermega.com.tr/)
+-  <b>Medium:</b> [https://starlordberke.medium.com/](https://starlordberke.medium.com/)
+-  <b>Youtube:</b> [https://www.youtube.com/@sibermega](https://www.youtube.com/@sibermega)
+-  <b>İnstagram:</b> [https://www.instagram.com/sibermega4](https://www.instagram.com/sibermega4)
+-  <b>Bloğum:</b> [https://sibermega4.blogspot.com/](https://sibermega4.blogspot.com/)
+-  <b>Ortak Kuruluş Web Sitesi:</b> [http://www.electronicspider.com/](http://www.electronicspider.com/)
 ---
 <b>ALGORİTMA</b>
 - <b>Ücretsiz Kaynaklar</b>
@@ -342,11 +352,11 @@ Bu kaynakları oluşturmamda yardımcı olan herkese çok teşekkürler... 🥰
 <img src="http://www.fubiz.net/wp-content/uploads/2017/03/cityillustrationsdigital6.jpg" alt="Image from fubiz.net" />
 
 <br>
+
 # Yazılımcılar için Kaynaklar/Resources for Programmers 📚
 
-Aşağıdaki linkler vasıtasıyla yazılımcılar için önerilen kaynaklara (ücretli veya ücretsiz) erişebilirsiniz. Bu repo sık sık güncellenecektir, sizler de ekleme yapabilirsiniz.
-
-You can access the resources (paid or free) recommended for software developers via the links below. This repo will be updated frequently, you can add it too.
+- Aşağıdaki linkler vasıtasıyla yazılımcılar için önerilen kaynaklara (ücretli veya ücretsiz) erişebilirsiniz. Bu repo sık sık güncellenecektir, sizler de ekleme yapabilirsiniz.
+- You can access the resources (paid or free) recommended for software developers via the links below. This repo will be updated frequently, you can add it too.
 
 ## Genel Kaynaklar/General Resources
 
