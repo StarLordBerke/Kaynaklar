@@ -4,7 +4,7 @@ Yazılım öğrenmeye başlamak için kendi kullandığım ücertli ve ücretsiz
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://www.yazilimturkiye.com/yazilimcilar-icin-kaynaklar/)
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
-![footer](https://github.com/StarLordBerke/StarLordBerke/blob/main/footer.jpg)
+![footer](https://github.com/StarLordBerke/StarLordBerke4/blob/main/footer.jpg)
 
 ## Türkçe Kaynaklar Listesi:
 
